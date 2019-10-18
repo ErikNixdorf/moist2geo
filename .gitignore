@@ -3,4 +3,4 @@ radohydro.py
 
 #output
 /output/*
-/__pychache__/*
+__pycache__
