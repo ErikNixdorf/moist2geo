@@ -291,7 +291,7 @@ def main(fname='nFK_0_25_daily_n14.gif',
         except OSError:
             pass
 
-        pixcells.to_file('.\output\\'+fname[:-4]+'shp')
+        pixcells.to_file('.\output\\'+fname[:-4])
 
 if __name__ == "__main__":
     main()
