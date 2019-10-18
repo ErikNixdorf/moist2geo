@@ -1,0 +1,6 @@
+#radohydro_tools
+radohydro.py
+
+#output
+/output/*
+/__pychache__/*
